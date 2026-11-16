@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Luckystar720&show_icons=true&include_all_commits=true&rank_icon=default&custom_title=My%20GitHub%20Statistics&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=60A5FA&ring_color=3B82F6&border_color=1E293B
+          options: username=Luckystar0720&show_icons=true&include_all_commits=true&rank_icon=default&custom_title=My%20GitHub%20Statistics&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=60A5FA&ring_color=3B82F6&border_color=1E293B
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
