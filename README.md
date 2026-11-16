@@ -70,6 +70,15 @@ I enjoy turning complex ideas into practical, scalable solutions.
   />
 </p>
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=Luckystar720&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Statistics"
+  />
+</p>
+
 ## 🚀 What I'm Building
 
 - AI-powered applications and assistants.
