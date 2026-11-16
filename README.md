@@ -70,13 +70,29 @@ I enjoy turning complex ideas into practical, scalable solutions.
   />
 </p>
 
-## 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 <p align="center">
   <img
     src="https://ghstats.dev/api/card?username=Luckystar720&show_icons=true&hide_border=true&theme=transparent"
     alt="GitHub Statistics"
   />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Luckystar720/Luckystar720/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Luckystar720/Luckystar720/output/github-contribution-grid-snake.svg"
+      alt="My GitHub Contribution Activity"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ## 🚀 What I'm Building
