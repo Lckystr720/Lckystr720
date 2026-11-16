@@ -60,6 +60,16 @@ I enjoy turning complex ideas into practical, scalable solutions.
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,vercel,aws,git,github" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages"/>
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
+  />
+</p>
+
 ## 🚀 What I'm Building
 
 - AI-powered applications and assistants.
