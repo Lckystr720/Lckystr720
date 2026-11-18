@@ -1,64 +1,55 @@
 # 👋 Hello.
 
-### Fullstack Developer | AI Product Builder | Automation Engineer
+### Full-Stack Python Developer | AI Applications | APIs & Automation
 
-Building scalable web applications, intelligent AI products, and automation systems that solve real business problems.
+I build software that connects backend services, APIs, automation workflows, and AI capabilities to solve practical problems.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=200&section=header&text=Building%20Ideas%20Into%20Products&fontSize=32&fontColor=ffffff" alt="Building Ideas Into Products" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/UglyBeast906">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Product%20Builder-purple?style=for-the-badge" />
-</p>
+I'm currently pursuing a **BS in Cloud Computing** and developing my skills through hands-on work in Python APIs, automation, and AI-powered applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Fullstack Developer and AI Product Builder focused on designing, developing, and deploying modern digital products.
+- 🐍 Focused on **Python development**, backend engineering, and API development.
+- 🤖 Interested in building practical **AI-powered applications** and integrating LLM capabilities.
+- ⚙️ Enjoy automating repetitive tasks and connecting tools through APIs.
+- ☁️ Studying **Cloud Computing** and learning how to build and deploy reliable applications.
+- 🤝 Open to collaboration, freelance projects, and opportunities to grow as a Full-Stack Python Developer.
 
-I enjoy turning complex ideas into practical, scalable solutions.
+---
 
-- 🤖 Building AI-powered applications and intelligent assistants.
-- ⚡ Developing fullstack SaaS platforms.
-- 🔗 Automating business workflows with n8n and APIs.
-- 🧠 Exploring LLMs, AI agents, and RAG architectures.
-- ☁️ Building and deploying cloud-ready applications.
-- 🚀 Interested in collaborating with founders and ambitious teams.
+## 🛠️ Technical Interests
 
-## 🛠️ Tech Stack
+> This section reflects the areas I work with or am developing. Repository-specific tools and frameworks should be listed only when they are actually used in that project.
 
-**Frontend**
+- **Programming:** Python
+- **Backend:** Python APIs, REST API development
+- **AI:** AI application development, LLM integrations
+- **Automation:** Python scripting, workflow automation
+- **Data:** SQL and relational database concepts
+- **Cloud & Development:** Cloud Computing, Git, GitHub
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,vite" />
-</p>
+---
 
-**Backend**
+## 🚀 Featured Work
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastapi" />
-</p>
+Explore my repositories to see my development work:
 
-**AI & Automation**
+- **Python APIs** — backend services and API-focused development.
+- **Automation** — scripts and workflows designed to reduce repetitive tasks.
+- **AI Applications** — projects exploring practical AI integrations.
 
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+*Add or replace these descriptions with direct repository links and concrete technical details for each project before publishing. Only claim features, frameworks, and deployment details that the code actually demonstrates.*
 
-**Database & Infrastructure**
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,vercel,aws,git,github" />
-</p>
+## 📚 Currently Building My Skills In
+
+- Designing maintainable Python backend applications
+- Building and documenting REST APIs
+- Integrating AI services into applications
+- Working with databases and data validation
+- Deploying applications in cloud environments
 
 ## 📊 GitHub Analytics
 
@@ -95,38 +86,15 @@ I enjoy turning complex ideas into practical, scalable solutions.
   </picture>
 </p>
 
-## 🚀 What I'm Building
-
-- AI-powered applications and assistants.
-- Fullstack SaaS platforms.
-- Business workflow automation systems.
-- CRM integrations and intelligent lead management.
-- Modern web applications with scalable architectures.
-
-## 🎯 Current Focus
-
-- AI Agents and LLM applications.
-- Retrieval-Augmented Generation (RAG).
-- Workflow automation with n8n.
-- Backend architecture and system design.
-- Scalable SaaS development.
+---
 
 ## 🤝 Let's Connect
 
-I'm open to collaborating with startup founders, developers, and teams building innovative products.
+- **GitHub:** [@betterluck720](https://github.com/betterluck720)
+- **Email:** cocumer43@gmail.com
 
-<p align="center">
-  <a href="https://github.com/UglyBeast906">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <!-- Replace with your actual LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I'm interested in connecting with developers, founders, and teams working on Python, AI products, backend systems, and automation.
 
 ---
 
-<p align="center">
-  <b>Building intelligent products. Automating possibilities. Creating impact. 🚀</b>
-</p>
+⭐ Thanks for visiting my profile!
