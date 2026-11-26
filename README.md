@@ -65,7 +65,7 @@ Explore my repositories to see my development work:
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=Luckystar0720&show_icons=true&hide_border=true&theme=transparent"
+    src="https://ghstats.dev/api/card?username=Lckystr720&show_icons=true&hide_border=true&theme=transparent"
     alt="GitHub Statistics"
   />
 </p>
@@ -76,10 +76,10 @@ Explore my repositories to see my development work:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Luckystar0720/Luckystar0720/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Lckystr720/Lckystr720/output/github-contribution-grid-snake-dark.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/Luckystar0720/Luckystar0720/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Lckystr720/Lckystr720/output/github-contribution-grid-snake.svg"
       alt="My GitHub Contribution Activity"
       width="100%"
     />
