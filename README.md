@@ -90,7 +90,7 @@ Explore my repositories to see my development work:
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [@betterluck720](https://github.com/betterluck720)
+- **GitHub:** [@Lckystr720](https://github.com/Lckystr720)
 - **Email:** cocumer43@gmail.com
 
 I'm interested in connecting with developers, founders, and teams working on Python, AI products, backend systems, and automation.
